@@ -1,5 +1,5 @@
 package evaluacionfinal;
-import static codigo.Tokens.*;
+import static evaluacionfinal.Tokens.*;
 %%
 %class Lexer
 %type Tokens
